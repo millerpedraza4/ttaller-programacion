@@ -13,5 +13,6 @@ num1=parseIint(prompt("ingrese el num1"))
 num2=parseIint(prompt("ingrese el num2"))
 num3=parseIint(promtp("ingrese el num3"))
 suma=num1+num2+num3
-mensaje="la suma entre "+num1+"+"+num2 "+"+ num3+"="+ suma
+mensaje="la suma entre "+num1+"+"+num2 +"+" num3+"="+ suma
 alert(mensaje2)
+var nombre2="cualquierNombre"
